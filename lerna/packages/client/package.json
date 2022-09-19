@@ -22,5 +22,9 @@
   },
   "bugs": {
     "url": "https://github.com/ShigatsuEl/monorepo-get-started/issues"
+  },
+  "dependencies": {
+    "common": "0.0.0",
+    "react": "^18.2.0"
   }
 }
